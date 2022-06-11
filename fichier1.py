@@ -1,4 +1,3 @@
 print ("balblalbal")
 
-poreperokrekreopkre
 
